@@ -11,3 +11,6 @@ python manage.py runserver
 create urls.py in the app folder
 
 
+npx create-react-app frontend
+
+
